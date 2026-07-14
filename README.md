@@ -19,3 +19,11 @@ Through the development of this project, practical experience was gained in **Py
 - Add explainable AI techniques to provide transparent prediction reasoning.
 - Continuously retrain the model using updated loan datasets to improve prediction performance.
 - Deploy the application on cloud platforms such as **Render, Railway, Azure, or AWS** for public accessibility.
+
+
+## 🎥 Demo Video
+
+Watch the project demo here:
+
+https://drive.google.com/file/d/1TymU9kyjgp8JcqZnxoAc5hQxvLdv_867/view?usp=sharing
+
